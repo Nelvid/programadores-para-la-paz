@@ -1,0 +1,8 @@
+La ruta POST /reporte recibe información enviada por el usuario, 
+específicamente un mensaje, y responde confirmando que fue recibido 
+junto con el contenido del mensaje.
+
+En una aplicación comunitaria podría servir para que los habitantes 
+reporten problemas del barrio como daños en calles, alumbrado o 
+acueducto, enviando un mensaje que queda registrado en el servidor 
+para que los administradores lo gestionen.
